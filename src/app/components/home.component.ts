@@ -8,7 +8,7 @@ import { Component} from '@angular/core';
       public titulo:string;
 
       constructor (){
-          this.titulo='Webapp de productos con Angular 4 TRBAJO';
+          this.titulo='Webapp de productos con Angular Perros';
       }
       ngOnInit(){
           console.log ('Se ha cargado el componente');
