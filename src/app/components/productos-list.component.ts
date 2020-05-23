@@ -12,7 +12,7 @@ export class ProductosListComponent{
         private _route:ActivatedRoute,
         private _router:Router
     ){
-        this.titulo='Listado de Productos';
+        this.titulo='Listado';
     }
 
     ngOnInit(){
